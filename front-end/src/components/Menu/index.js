@@ -6,7 +6,7 @@ import Button from '../Button';
 import Logo from '../../assets/img/Logo.png';
 
 function Menu () {
-  return (
+  return (  
     <nav className="Menu">
       <a href="/">
         <img className="Logo" src={Logo} alt="DevFlix" />
