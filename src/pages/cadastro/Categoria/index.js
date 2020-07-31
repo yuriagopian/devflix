@@ -43,7 +43,7 @@ function CadastroCategoria() {
 
   useEffect(() => {
     if (window.location.href.includes('localhost')) {
-      const URL = 'https://devfliix.vercel.app/cadastro/categoria';
+      const URL = 'https://devflix-yuri.herokuapp.com/categorias';
       fetch(URL)
         .then(async (respostaDoServer) => {
           if (respostaDoServer.ok) {
