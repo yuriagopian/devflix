@@ -1,0 +1,161 @@
+{
+  "categorias": [
+    { "id": 1,
+      "titulo": "Node Js",
+      "link": "https://www.youtube.com/watch?v=DiXbJL3iWVs",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Node do básico ao avançado",
+        "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs"
+      },
+      "videos": [
+        {
+          "titulo": "Node.js: Iniciando da teoria à prática | Masterclass #11",
+          "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs"
+        },
+        {
+          "titulo": "Node.js // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vYekSMBCCiM"
+        },
+        {
+          "titulo": "Node.js: Iniciando da teoria à prática | Masterclass #11",
+          "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs"
+        },
+        {
+          "titulo": "O que é Node.js? (Entenda de uma vez por todas)",
+          "url": "https://www.youtube.com/watch?v=nfrVPzDJZQc"
+        },
+        {
+          "titulo": "JS Assíncrono: Entenda de vez Callbacks, Promises e Async/Await",
+          "url": "https://www.youtube.com/watch?v=7Bs4-rqbCQc"
+        },
+        {
+          "titulo": "#8 API em NodeJS com Clean Architecture e TDD - CI & Jest 2/2",
+          "url": "https://www.youtube.com/watch?v=viTUaggeQFk"
+        }
+      ]
+    },
+    {"id": 2,
+      "titulo": "Angular",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Angular do básico ao avançado",
+        "url": "https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G&index=1"
+      },
+      "videos": [
+        {
+          "titulo": "Curso Angular #01: Introdução",
+          "url": "https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G&index=1"
+        },
+        {
+          "titulo": "O que é Angular e AngularJS? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=LFlNU30u7d8"
+        },
+        {
+          "titulo": "Angular 9 - Curso Grátis - Navegar Para Tela de Criar Produtos [2020]",
+          "url": "https://www.youtube.com/watch?v=NCrWXZtlc7Q&list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3&index=1"
+        }
+      ]
+    },
+    {"id": 3,
+      "titulo": "React Js",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "React Js como nunca viu",
+        "url": "https://www.youtube.com/watch?v=XQxitgyZ_S4"
+      },
+      "videos": [
+        {
+          "titulo": "O que é ReactJS? - Série ReactJS",
+          "url": "https://www.youtube.com/watch?v=cEczlv669Oo"
+        },
+        {
+          "titulo": "Iniciando no ReactJS | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=7A4UQGrFU9Q"
+        },
+        {
+          "titulo": "React JS Curso Rápido ⚛️ Masterclass #1 2020 - 100% Prático! ",
+          "url": "https://www.youtube.com/watch?v=XQxitgyZ_S4"
+        },
+        {
+          "titulo": "Recriando a Interface do Discord com ReactJS | UI Clone",
+          "url": "https://www.youtube.com/watch?v=x4FdZd2-_uU"
+        }
+      ]
+    },
+    {"id": 4,
+      "titulo": "Python",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Python // Dicionário do Programador ",
+          "url": "https://www.youtube.com/watch?v=uOgDa1rlqjE"
+        },
+        {
+          "titulo": "O que é Python? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=-LATVnPcvHI"
+        },
+        {
+          "titulo": "Aprenda Python em 10 minutos! (Para iniciantes)",
+          "url": "https://www.youtube.com/watch?v=Q8eajxcS6dQ"
+        },
+        {
+          "titulo": "PYTHON 3 Curso Rápido 🐍 Parte #1 2020 - 100% Prático!",
+          "url": "https://www.youtube.com/watch?v=oUrBHiT-lzo"
+        }
+      ]
+    },
+    {"id": 5,
+      "titulo": "Power BI",
+      "cor": "red",
+      "link_extra": {
+        "text": "Curso Básico de Power BI - Aula 01",
+        "url": "https://www.youtube.com/watch?v=merUYMASzWw&t=5s"
+      },
+      "videos": [
+        {
+          "titulo": "Criar um Dashboard Completo no Power BI - Curso de Power BI Gratuito",
+          "url": "https://www.youtube.com/watch?v=YyrK_1RDxv0&t=7030s"
+        },
+        {
+          "titulo": "[Power BI] Introdução ao Power BI",
+          "url": "https://www.youtube.com/watch?v=VjEJB5TTHiQ&list=PLV-9aagMq_koV4BVilwsb99f8DwHdMLCM"
+        },
+        {
+          "titulo": "[Live #1 Workshop #1 Power BI] Dashboard FINANCEIRO com Análises de Títulos Pagos e Recebidos",
+          "url": "https://www.youtube.com/watch?v=PpuQc6s6v4I&t=265s"
+        }
+      ]
+    },
+    {"id": 6,
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
